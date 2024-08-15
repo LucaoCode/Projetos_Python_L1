@@ -6,9 +6,11 @@ Este repositório contém uma coleção de projetos básicos em Python, projetad
 
 - Verificador de Números Primos: Um programa que verifica se um número é primo e imprime todos os números primos até um valor dado.
 
-- Contador de Letras: Verifica uma letra indicada pelo usuário para conta-las dentro de um texto
+- Contador de Letras: Verifica uma letra indicada pelo usuário para conta-las dentro de um texto.
 
-- Gerador de senha: gera uma senha segura com o tamanho selecionado pelo usuário e registrar a senha em um arquivo 
+- Gerador de senha: gera uma senha segura com o tamanho selecionado pelo usuário e registrar a senha em um arquivo.
+
+- Logica em Programação Orientada a Objeto(POO): implementação de classes Bola,Carro e Conta Corrente. Entendendo atributos,construtor e metodos.
 
 ## 🤝 Contribuições
 Contribuições são bem-vindas! Se você tem uma ideia de projeto básico ou deseja melhorar algum dos projetos existentes, sinta-se à vontade para abrir uma issue ou enviar um pull request.
